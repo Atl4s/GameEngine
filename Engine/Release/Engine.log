@@ -1,0 +1,7 @@
+﻿  Object.cpp
+c:\users\иван\documents\visual studio 2015\projects\gameengine\engine\InputHandler.h(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\иван\documents\visual studio 2015\projects\gameengine\engine\InputHandler.h(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\иван\documents\visual studio 2015\projects\gameengine\engine\InputHandler.h(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\иван\documents\visual studio 2015\projects\gameengine\engine\InputHandler.h(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Object.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Engine.vcxproj -> C:\Users\Иван\documents\visual studio 2015\Projects\GameEngine\Release\Engine.lib

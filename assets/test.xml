@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<STATES>
+  <MENU>
+    <OBJECTS>
+      <object type="MenuButton" x="-100" y="100" width="128" height="32" texture="../assets/play.png" numFrames="3" callbackID="1" />
+      <object type="MenuButton" x="-100" y="-100" width="128" height="32" texture="../assets/exit.png" numFrames="3" callbackID="2" />
+    </OBJECTS>
+  </MENU>
+  <PLAY>
+    <OBJECTS>
+      <object type="Enemy" x="500" y="100" width="78" height="78" texture="../assets/Doge_Sprite_Sheet.png" numFrames="10" />
+	  <object type="Player" x="0" y="0" width="78" height="78" texture="../assets/Doge_Sprite_Sheet.png" numFrames="10" />
+    </OBJECTS>
+  </PLAY>
+  <PAUSE>
+    <OBJECTS>
+      <object type="MenuButton" x="-100" y="100" width="128" height="32" texture="../assets/menu.png" numFrames="3" callbackID="1" />
+      <object type="MenuButton" x="-100" y="-100" width="128" height="32" texture="../assets/resume.png" numFrames="3" callbackID="2" />
+    </OBJECTS>
+  </PAUSE>
+  <GAMEOVER>
+    <OBJECTS>
+      <object type="MenuButton" x="-100" y="200" width="128" height="32" texture="../assets/menu.png" numFrames="3" callbackID="1" />
+      <object type="MenuButton" x="-100" y="100" width="128" height="32" texture="../assets/restart.png" numFrames="3" callbackID="2" />
+      <object type="AnimatedGraphic" x="-100" y="-100" width="128" height="32" texture="../assets/gameover.png" numFrames="2" animSpeed="2" />
+    </OBJECTS>
+  </GAMEOVER>
+</STATES>

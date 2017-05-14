@@ -1,0 +1,81 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Material__29
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a453d8.dds
+#
+newmtl Material__39
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a45678.dds
+map_d 6a45678.dds
+#
+newmtl Material__40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a45468.dds
+#
+newmtl Material__41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a454f8.dds
+map_d 6a454f8.dds
+#
+newmtl Material__42
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a45978.dds
+map_d 6a45978.dds
+#
+newmtl Material__43
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a459a8.dds
+map_d 6a459a8.dds
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a45bb8.dds
+map_d 6a45bb8.dds
+#
+newmtl Material__45
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 6a45be8.dds
+map_d 6a45be8.dds
+#
+# EOF
